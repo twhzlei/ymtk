@@ -1,18 +1,78 @@
-🎄马来西亚,#genre#
-TV1,https://live01.gohkh9.eu.org/live.php?id=TV1
-TV2,https://live01.gohkh9.eu.org/live.php?id=TV2
-TV3,https://live01.gohkh9.eu.org/live.php?id=TV3
-TV Okey,https://live01.gohkh9.eu.org/live.php?id=Okey
-BERITA RTM,https://live01.gohkh9.eu.org/live.php?id=BERITA
-DidikTVKPM,https://live01.gohkh9.eu.org/live.php?id=DidikTV
-TV6,https://live01.gohkh9.eu.org/live.php?id=TV6
-八度空间,https://live01.gohkh9.eu.org/live.php?id=tv8
-TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
-GOSHOP,https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
-DEWAN RAKYAT,https://live01.gohkh9.eu.org/live.php?id=DEWAN RAKYAT
-SUKAN RTM,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
-DEWAN NEGARA,https://live01.gohkh9.eu.org/live.php?id=DEWAN NEGARA
 🌍港澳电台,#genre#
+凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰资讯,P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰香港,P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+凤凰资讯,https://fake-stream.livednow.com/mdvb/phx-news?token=d28d104a6c176af9d59823e8dccbd619&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
+凤凰中文,https://fake-stream.livednow.com/mdvb/phx-chinese?token=666e67d952f67d62d3cf407e49892124&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
+凤凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
+凤凰资讯,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1210
+凤凰中文,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1213
+凤凰资讯,http://113.117.74.30:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.30:8081/hls/37/index.m3u8
+凤凰资讯,http://113.117.74.24:8081/hls/36/index.m3u8
+凤凰中文,http://113.117.74.24:8081/hls/37/index.m3u8
+凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
+凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯,http://wg.lloydind.cn:9999/udp/233.50.200.192:5140
+凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140 
+凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
+凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
+TVB 无线财经体育资讯台,https://hls.ulivetv.net/v/live/cu0g45h151kw.m3u8?
+TVB J2,https://hls.ulivetv.net/v/live/cfxrks69bzcw.m3u8?
+TVB 星河台,https://hls.ulivetv.net/v/live/cl7c95iovqo0.m3u8?
+TVB 明珠台,https://hls.ulivetv.net/v/live/cfxphafmwyio.m3u8?
+TVB 华语剧台,https://hls.ulivetv.net/v/live/ciw8gobsylds.m3u8?
+TVB 亚洲剧台,https://hls.ulivetv.net/v/live/cnyy2jy9gdds.m3u8?
+TVB 粤语片台,https://hls.ulivetv.net/v/live/cnv47oyqlmtc.m3u8?
+TVB 高清翡翠台,http://tvpo1.rbq.plus/jade/jade.stream/chunklist.m3u8
+TVB 千禧经典台,https://hls.ulivetv.net/v/live/d24fe2sjnr5s.m3u8?
+TVB 无线新闻台,https://hls.ulivetv.net/v/live/cfm20xoztyv4.m3u8?
+TVB 娱乐新闻台,https://hls.ulivetv.net/v/live/cnkh00kniz0g.m3u8?
+TVB娱乐新闻台,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+TVB星河(粤),P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
+TVBS新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1051
+TVBS,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1251
+黄金翡翠台,P2p://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
+翡翠台,P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+翡翠台,https://fake-stream.livednow.com/mdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
+TVB 新闻,rtmp://twcdn.top/sat/tv551
+TVB 欢乐,rtmp://twcdn.top/sat/tv421
+TVB ,https://hls.ulivetv.net/v/live/cl7c4wxioc00.m3u8?
+TVB ,http://lzoq.71.gay/daili/yg.php?id=tvbs
+TVB ,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38536
+TVB 歡樂,rtmp://9sv2.mine.nu:1935/sat/tv421
+TVB 新闻,rtmp://116.93.98.236/sat/tv551
+TVB 欢乐,rtmp://116.93.98.236/sat/tv421
+TVB ,p3p://108.181.32.169:51603/64252174000b39b9ea6431c97b481680
+TVB ,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
+TVB ,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
+TVB  HD,https://hls.ulivetv.net/v/live/cl7c4wxioc00.m3u8?
+TVB 亚洲武侠台,http://tvpo1.rbq.plus/asia_action/asia_action.stream/chunklist.m3u8
+香港-六合,rtmp://116.93.98.236/sat/hk031
+卫视电影,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1031
+香港-六合,http://60.248.77.83/sat/hk031.flv
+香港-六合,rtmp://9sv2.mine.nu/sat/hk031
+香港-六合,rtmp://twcdn.top/sat/hk031
+凤凰资讯,p3p://108.181.32.169:51603/641022be000e5cc69861ad4f5a025336
+凤凰中文,p3p://108.181.32.169:51603/6410229e000655dd98612e41401e3e7d
+凤凰中文,p3p://108.181.32.169:51603/641fd7b400080236d5bc536f5d82159c
+
+凤凰资讯,p3p://108.181.20.159:72928/640dad8e0004032e66a7116c70d14d30
+凤凰资讯,p3p://108.181.20.159:72928/5fffbf860003807cedf4e1016c3c3ed2
+凤凰中文,p3p://108.181.20.159:72928/602c73500002f4d29c90fa1270f21160
+凤凰资讯,P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
+凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+
+香港电台1,https://hls.ulivetv.net/v/live/cfxry1ma5e4g.m3u8?
+香港电台2,https://hls.ulivetv.net/v/live/cfxs3n0cxs5c.m3u8?
+凤凰卫视资讯台,https://hls.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?
+凤凰卫视中文台,https://hls.ulivetv.net/v/live/cg4l8oajkyww.m3u8?
+
+
+
+
+
 港台电视31,P2p://generationnexxxt.com:19806/e4b56cb972e940ee8be694602294d242
 港台电视32,P2p://generationnexxxt.com:19806/9c0a161f9c59476584fe4d8effc125b6
 HOYTV,P2p://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
@@ -23,17 +83,14 @@ J2 台://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 无线财经体育资讯台,P2p://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
 ViuTVsix,P2p://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,P2p://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
-凤凰中文台,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰资讯台,P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰香港台,P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
-TVB星河(粤),P2p://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
+
+
 澳门-MACAU,P2p://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
 澳门莲花,P2p://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b
 now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 HKC18,P2p://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
 戏曲台,P2p://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-TVB娱乐新闻台,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
-翡翠台,P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7
+
 千禧经典台,P2p://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 Thrill,P2p://generationnexxxt.com:19806/1c3c73215afd42558101c3ee65737202
 明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
@@ -45,9 +102,6 @@ HandsUp,P2p://generationnexxxt.com:19806/7a79a82b627a417f897895b4adf874aa
 亚洲剧台,P2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
 功夫台,P2p://generationnexxxt.com:19806/ef6373344abf4bedae4d49ac953c1742
 HOY资讯台,P2p://generationnexxxt.com:19806/eb5a565eb80d40509f0a248018dfd337
-黄金翡翠台,P2p://generationnexxxt.com:19806/864714d6ebe847edaa948e9104107f12
-
-翡翠台,https://fake-stream.livednow.com/mdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
 明珠台,https://fake-stream.livednow.com/mdvb/pearl?token=8d47f6a8506eee37e6c726a1e8412b0f&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
 J2 台,https://fake-stream.livednow.com/mdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
 无线新闻台,https://fake-stream.livednow.com/tvb/C?token=c8575882ea0ca61170b2284e0d1f0144&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
@@ -56,19 +110,14 @@ TVB 財經體育資訊台,https://fake-stream.livednow.com/tvb/A?token=9cab24677
 TVB 財經體育資訊台 海外版,https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe931c85e95183e&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
 ViuTV,https://fake-stream.livednow.com/mdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
 ViuTV Six,https://fake-stream.livednow.com/mdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
-凤凰资讯台,https://fake-stream.livednow.com/mdvb/phx-news?token=d28d104a6c176af9d59823e8dccbd619&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
-凤凰中文,https://fake-stream.livednow.com/mdvb/phx-chinese?token=666e67d952f67d62d3cf407e49892124&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
-凤凰香港,https://fake-stream.livednow.com/mdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=5760780724&user_token=ebeeba8f4a0f1545afe0b6b2a32a0514
 
-凤凰资讯,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1210
-凤凰中文,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1213
-TVBS,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1251
+
 中天新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1015
 寰宇新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1222
 年代新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1192
 东森新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1014
 三立新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1016
-TVBS新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1051
+
 非凡新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1013
 非凡商業,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1012
 壹新闻,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1242
@@ -118,33 +167,21 @@ TVBS欢乐,http://60.248.77.83/sat/tv421.flv
 ELEVEN1,http://60.248.77.83/sat/tv731.flv
 ELEVEN2,http://60.248.77.83/sat/tv741.flv
 MOMO综合,http://60.248.77.83/sat/tv761.flv
-香港-六合,http://60.248.77.83/sat/hk031.flv
-香港-六合,rtmp://9sv2.mine.nu/sat/hk031
-香港-六合,rtmp://twcdn.top/sat/hk031
-凤凰资讯,http://113.117.74.30:8081/hls/36/index.m3u8
-凤凰中文,http://113.117.74.30:8081/hls/37/index.m3u8
-凤凰资讯,http://113.117.74.24:8081/hls/36/index.m3u8
-凤凰中文,http://113.117.74.24:8081/hls/37/index.m3u8
-凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
-凤凰中文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯,http://wg.lloydind.cn:9999/udp/233.50.200.192:5140
-凤凰中文,http://wg.lloydind.cn:9999/udp/233.50.200.42:5140 
-凤凰中文,http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
-凤凰资讯,http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
-TVBS,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/38536
+
+
+
 中天新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/21296
 寰宇新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24960
-TVBS,https://hls.ulivetv.net/v/live/cl7c4wxioc00.m3u8?
+
 中天新闻,https://hls.ulivetv.net/v/live/cg1049vjg14w.m3u8?
 中视新闻,https://hls.ulivetv.net/v/live/clev54g636bk.m3u8?
 寰宇新闻,https://hls.ulivetv.net/v/live/cfxws90rpmf4.m3u8?
-TVBS,http://lzoq.71.gay/daili/yg.php?id=tvbs
+
 中天新闻,http://lzoq.71.gay/daili/yg.php?id=cti
 中天新闻2,http://lzoq.71.gay/daili/yg.php?id=cti2
 无线财经,rtmp://twcdn.top/sat/hk031
 18台,rtmp://twcdn.top/sat/hk021
-TVBS新闻,rtmp://twcdn.top/sat/tv551
-TVBS欢乐,rtmp://twcdn.top/sat/tv421
+
 华视,rtmp://twcdn.top/sat/tv111
 台视,rtmp://twcdn.top/sat/tv071
 民视,rtmp://twcdn.top/sat/tv051
@@ -167,7 +204,7 @@ TVBS新聞,rtmp://9sv2.mine.nu:1935/sat/tv551
 台視,rtmp://9sv2.mine.nu:1935/sat/tv071
 中視,rtmp://9sv2.mine.nu:1935/sat/tv091
 華視,rtmp://9sv2.mine.nu:1935/sat/tv111
-TVBS歡樂,rtmp://9sv2.mine.nu:1935/sat/tv421
+
 東森財經新聞,rtmp://9sv2.mine.nu:1935/sat/tv571
 緯來育樂,rtmp://9sv2.mine.nu:1935/sat/tv701
 緯來體育,rtmp://9sv2.mine.nu:1935/sat/tv721
@@ -182,11 +219,10 @@ ELTA體育4,rtmp://9sv2.mine.nu:1935/sat/md041
 ELTA體育3,rtmp://9sv2.mine.nu:1935/sat/md051
 无线财经,rtmp://9sv2.mine.nu/sat/hk031
 有线18,rtmp://9sv2.mine.nu/sat/hk021
-香港-六合,rtmp://116.93.98.236/sat/hk031
+
 中视,rtmp://116.93.98.236/sat/tv091
 台视,rtmp://116.93.98.236/sat/tv071
-TVBS新闻,rtmp://116.93.98.236/sat/tv551
-TVBS欢乐,rtmp://116.93.98.236/sat/tv421
+
 东森财经,rtmp://116.93.98.236/sat/tv571
 东森超视,rtmp://116.93.98.236/sat/tv331
 纬来日本,rtmp://116.93.98.236/sat/tv771
@@ -209,29 +245,15 @@ ELEVEN2,rtmp://116.93.98.236/sat/md011
 环球电视,rtmp://113.108.247.182:1935/cctv/world
 秋月剪水,http://huanqiuzhibo.cn/manifest/douyu.php?id=9588891
 无线财经,http://1.65.195.85:9981/stream/channelid/1781676223?ticket=1655ad1b29eb46b035d82ca8eace45223640062a&profile=pass
-凤凰卫视资讯台,https://hls.ulivetv.net/v/live/cfxskn7pjv0g.m3u8?
-凤凰卫视中文台,https://hls.ulivetv.net/v/live/cg4l8oajkyww.m3u8?
-TVBS HD,https://hls.ulivetv.net/v/live/cl7c4wxioc00.m3u8?
+
 中天新闻,https://hls.ulivetv.net/v/live/cg1049vjg14w.m3u8?
 中视新闻,https://hls.ulivetv.net/v/live/clev54g636bk.m3u8?
 寰宇新闻台,https://hls.ulivetv.net/v/live/cfxws90rpmf4.m3u8?
-TVB 无线财经体育资讯台,https://hls.ulivetv.net/v/live/cu0g45h151kw.m3u8?
-TVB J2,https://hls.ulivetv.net/v/live/cfxrks69bzcw.m3u8?
-TVB 星河台,https://hls.ulivetv.net/v/live/cl7c95iovqo0.m3u8?
-TVB 明珠台,https://hls.ulivetv.net/v/live/cfxphafmwyio.m3u8?
-TVB 华语剧台,https://hls.ulivetv.net/v/live/ciw8gobsylds.m3u8?
-TVB 亚洲剧台,https://hls.ulivetv.net/v/live/cnyy2jy9gdds.m3u8?
-TVB 粤语片台,https://hls.ulivetv.net/v/live/cnv47oyqlmtc.m3u8?
-TVB 高清翡翠台,http://tvpo1.rbq.plus/jade/jade.stream/chunklist.m3u8
-TVB 千禧经典台,https://hls.ulivetv.net/v/live/d24fe2sjnr5s.m3u8?
-TVB 无线新闻台,https://hls.ulivetv.net/v/live/cfm20xoztyv4.m3u8?
-TVB 娱乐新闻台,https://hls.ulivetv.net/v/live/cnkh00kniz0g.m3u8?
-TVB 亚洲武侠台,http://tvpo1.rbq.plus/asia_action/asia_action.stream/chunklist.m3u8
+
 Viu TV,https://hls.ulivetv.net/v/live/cfxqqyonr4xs.m3u8?
 HOY 资讯台,https://hls.ulivetv.net/v/live/crq2e7quuukg.m3u8?
 NOW 新闻台,https://hls.ulivetv.net/v/live/d24fsmrtvmf4.m3u8?
-香港电台1,https://hls.ulivetv.net/v/live/cfxry1ma5e4g.m3u8?
-香港电台2,https://hls.ulivetv.net/v/live/cfxs3n0cxs5c.m3u8?
+
 中视,https://hls.ulivetv.net/v/live/cl7c5tec5wow.m3u8?
 TVBS 欢乐台,https://hls.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?
 靖天卡通台,https://hls.ulivetv.net/v/live/d314fs4kxem8.m3u8?
@@ -264,17 +286,13 @@ TVBS,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&pa
 中视新闻,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=29&token=362347370d9bba54
 无线财经,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=8&token=362347370d9bba54
 无线财经台,http://hua.xhuizb.com:11189/potplayer/huanqiudaili.php?&username=gdadmin&password=gd123456&id=81&token=362347370d9bba54
-凤凰资讯,p3p://108.181.32.169:51603/641022be000e5cc69861ad4f5a025336
-凤凰中文,p3p://108.181.32.169:51603/6410229e000655dd98612e41401e3e7d
-凤凰中文,p3p://108.181.32.169:51603/641fd7b400080236d5bc536f5d82159c
-TVBS,p3p://108.181.32.169:51603/64252174000b39b9ea6431c97b481680
+
+
 中天新闻,p3p://108.181.32.169:51603/64252571000be01dea73c63b5616781e
 寰宇新闻,p3p://108.181.32.169:51603/64295eb60008744efaf37ae07d17520b
 中视新闻,p3p://108.181.32.169:51603/642d016e000643ab0926e0907da252ca
 无线财经台,p3p://108.181.32.169:51603/64100aec000c7bc59804a081537730cb
-凤凰资讯,p3p://108.181.20.159:72928/640dad8e0004032e66a7116c70d14d30
-凤凰资讯,p3p://108.181.20.159:72928/5fffbf860003807cedf4e1016c3c3ed2
-凤凰中文,p3p://108.181.20.159:72928/602c73500002f4d29c90fa1270f21160
+
 无线财经,p3p://108.181.20.159:72928/5ffbee4900066c0ddf0b8b84423c06f3
 无线财经,p3p://108.181.20.159:72928/611d989d0005244a4a7f24d111282ffb
 TVBS,p3p://108.181.20.159:72928/612ee5ef000f06f58e144b6727ec3efb
@@ -283,16 +301,12 @@ TVBS,p3p://108.181.20.159:72928/612ee5ef000f06f58e144b6727ec3efb
 寰宇新闻,p3p://108.181.20.159:72928/653cd4a900049a4206d258a92e941b10
 寰宇新闻,p3p://108.181.20.159:72928/653cd33a0001a69d06ccbe4e26413d90
 寰宇新闻台湾,p3p://108.181.20.159:729285/612d7c11000c9faf888ebf9f3276784e
-凤凰资讯,P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
+
 中天新闻,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
 无线财经,P2p://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
-凤凰资讯,mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
-凤凰中文,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
+
 中天新闻,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 中视新闻台,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
 寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
@@ -320,10 +334,7 @@ ELEVEN体育2,https://hls.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?
 History 频道,https://hls.ulivetv.net/v/live/cl7ch406n6ww.m3u8?
 美食星球频道,https://hls.ulivetv.net/v/live/cl7cq7br5d4w.m3u8?
 TLC 旅游生活頻道,https://hls.ulivetv.net/v/live/cl7chv63w4ao.m3u8?
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
-卫视电影,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1031
+
 好来坞电影,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1025
 纬来电影,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1183
 龙华电影,http://lzoq.71.gay/gt/%E8%83%BD%E7%9C%8B%E5%A4%9A%E4%B9%85%E9%9A%8F%E7%BC%98.php?id=1245
